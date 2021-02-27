@@ -1,0 +1,179 @@
+/* -- custom css for file index.html -- */
+
+/* --  body -- */
+body {
+	background-color: rgb(57,59,60);
+}
+
+/* -- h3 text-center text-muted mb-4 -- */
+#obj-41264 {
+	font-size: 16px;
+}
+
+/* -- mb-4 rounded-circle img-fluid img-zoom -- */
+#obj-38234 {
+	max-height: 160px;
+	 opacity: 0.76;
+	 filter: blur(1px);
+}
+
+/* -- mb-4 rounded-circle img-fluid img-zoom:hover -- */
+#obj-38234:hover {
+	filter: grayscale(4%);
+	-webkit-filter: grayscale(4%);
+
+}
+
+/* -- row no-gutters mb-3 text-center -- */
+#obj-aqlaqf267 {
+	min-width: 355px;
+}
+
+/* -- h6 text-black ml-1 mb-0 -- */
+#obj-55686 {
+	font-size: 15px;
+}
+
+/* -- h6 text-black ml-1 mb-0 -- */
+#obj-61443 {
+	font-size: 15px;
+}
+
+/* -- lead mb-4 pl-5 pr-5 -- */
+#obj-78395 {
+	font-size: 17px;
+	 max-width: 710px;
+}
+
+/* -- row text-center justify-content-center align-items-center mb-3 -- */
+#obj-55635 {
+	min-width: 460px;
+}
+
+/* -- h6 mb-0 -- */
+#obj-xajfex557 {
+	line-height: 25px;
+}
+
+/* -- h6 text-uppercase -- */
+#obj-smzuag980 {
+	font-size: 11px;
+}
+
+/* -- h4 text-center text-uppercase mb-4 p-2 font-weight-bold -- */
+#obj-36131 {
+	font-size: 17px;
+}
+
+/* -- progress w-100 -- */
+#obj-68564 {
+	font-size: 15px;
+	 height: 22px;
+}
+
+/* -- progress-bar bg-success progress-bar-animated -- */
+#obj-60968 {
+	width: 90%;
+}
+
+/* -- progress w-100 -- */
+#obj-68068 {
+	font-size: 15px;
+	 height: 22px;
+}
+
+/* -- progress-bar bg-warning progress-bar-animated -- */
+#obj-85973 {
+	width: 90%;
+}
+
+/* -- progress w-100 -- */
+#obj-45280 {
+	font-size: 15px;
+	 height: 22px;
+}
+
+/* -- progress-bar bg-primary progress-bar-animated -- */
+#obj-83113 {
+	width: 60%;
+}
+
+/* -- progress w-100 -- */
+#obj-26376 {
+	font-size: 15px;
+	 height: 22px;
+}
+
+/* -- progress-bar bg-danger progress-bar-animated -- */
+#obj-92582 {
+	width: 50%;
+}
+
+/* -- progress w-100 text-info -- */
+#obj-69525 {
+	font-size: 15px;
+	 height: 22px;
+}
+
+/* -- progress-bar bg-info progress-bar-animated -- */
+#obj-62095 {
+	width: 45%;
+}
+
+/* -- h4 text-center text-uppercase mt-5 p-2 font-weight-bold -- */
+#obj-93936 {
+	font-size: 17px;
+}
+
+/* -- lead -- */
+#obj-67088 {
+	font-size: 15px;
+}
+
+/* -- h4 text-center text-uppercase mt-5 p-2 font-weight-bold -- */
+#obj-50887 {
+	font-size: 17px;
+}
+
+/* -- lead -- */
+#obj-93787 {
+	font-size: 15px;
+}
+
+/* -- lead -- */
+#obj-55623 {
+	font-size: 15px;
+}
+
+/* -- container pb-5 -- */
+#obj-56982 {
+	border-left-style: solid;
+	 border-left-color: rgb(237, 237, 237);
+	 border-width: 0px 0px 0px 1px;
+}
+
+/* -- h4 p-2 text-center text-uppercase font-weight-bold -- */
+#obj-18988 {
+	font-size: 17px;
+}
+
+/* -- badge text-white badge-primary ml-0 pl-2 pr-2 -- */
+#obj-81824 {
+	cursor: pointer;
+}
+
+/* -- lead text-left mr-4 -- */
+#obj-50758 {
+	font-size: 15px;
+}
+
+/* -- h6 text-muted text-uppercase m-0 ml-4 -- */
+#obj-60675 {
+	font-size: 11px;
+}
+
+/* -- h6 text-muted text-uppercase m-0 mr-4 -- */
+#obj-90741 {
+	font-size: 11px;
+}
+
